@@ -36,7 +36,7 @@ The Book Store Scraper is a Python-based web scraping tool designed to extract i
 - **Selenium:** We appreciate the [Selenium](https://www.selenium.dev/) project for enabling browser automation, allowing us to scrape dynamically loaded content from Wikipedia pages.
 
 ## Contact
-Email : mgmiteshgupta134@gmail.com
+Email : miteshgupta2711@gmail.com
 
 Linkedin : https://www.linkedin.com/in/mitesh-gupta/
 
